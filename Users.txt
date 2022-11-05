@@ -1,3 +1,0 @@
-admin,1234,admin
-gestor,1234,gestor
-guillermo,1234,asistente
